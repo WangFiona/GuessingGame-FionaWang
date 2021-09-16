@@ -2,6 +2,11 @@
 
 using namespace std;
 
+/*Author: Fiona Wang
+  Date: Sept. 15, 2021
+  This program runs a guessing game that allows the player to guess a number
+  between 0 and 100 (inclusive)
+ */
 int main()
 {
   int guess = 0;
