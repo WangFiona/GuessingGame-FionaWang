@@ -9,6 +9,7 @@ using namespace std;
  */
 int main()
 {
+  //Initializing variables
   int guess = 0;
   int number = 1;
   bool playing = true;
